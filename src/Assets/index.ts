@@ -1,0 +1,28 @@
+const Fonts = {
+  Montserrat_Bold: 'Montserrat-Bold',
+  Montserrat_BoldItalic: 'Montserrat-BoldItalic',
+  Montserrat_Italic: 'Montserrat-Italic',
+  Montserrat_Medium: 'Montserrat-Medium',
+  Montserrat_MediumItalic: 'Montserrat-MediumItalic',
+  Montserrat_Regular: 'Montserrat-Regular',
+  Montserrat_SemiBold: 'Montserrat-SemiBold',
+  Montserrat_SemiBoldItalic: 'Montserrat-SemiBoldItalic',
+  // Inter_Bold: 'InterBold',
+  // Inter_BoldItalic: 'Inter-BoldItalic',
+  // Inter_Italic: 'InterItalic',
+  // Inter_Medium: 'InterMedium',
+  // Inter_MediumItalic: 'InterMediumItalic',
+  // Inter_Regular: 'InterRegular',
+  // Inter_SemiBold: 'InterSemiBold',
+  // Inter_SemiBoldItalic: 'InterSemiBoldItalic',
+  NunitoBold: 'Nunito-Bold',
+  NunitoBoldItalic: 'Nunito-BoldItalic',
+  NunitoItalic: 'Nunito-Italic',
+  NunitoMedium: 'Nunito-Medium',
+  NunitoMediumItalic: 'Nunito-MediumItalic',
+  NunitoRegular: 'Nunito-Regular',
+  NunitoSemiBold: 'Nunito-SemiBold',
+  NunitoSemiBoldItalic: 'Nunito-SemiBoldItalic',
+};
+
+export default Fonts;

@@ -26,14 +26,13 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -48,5 +47,32 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>InterBold.ttf</string>
+		<string>InterBoldItalic.ttf</string>
+		<string>InterItalic.ttf</string>
+		<string>InterMedium.ttf</string>
+		<string>InterMediumItalic.ttf</string>
+		<string>InterRegular.ttf</string>
+		<string>InterSemiBold.ttf</string>
+		<string>InterSemiBoldItalic.ttf</string>
+		<string>Montserrat_Bold.ttf</string>
+		<string>Montserrat_BoldItalic.ttf</string>
+		<string>Montserrat_Italic.ttf</string>
+		<string>Montserrat_Medium.ttf</string>
+		<string>Montserrat_MediumItalic.ttf</string>
+		<string>Montserrat_Regular.ttf</string>
+		<string>Montserrat_SemiBold.ttf</string>
+		<string>Montserrat_SemiBoldItalic.ttf</string>
+		<string>NunitoBold.ttf</string>
+		<string>NunitoBoldItalic.ttf</string>
+		<string>NunitoItalic.ttf</string>
+		<string>NunitoMedium.ttf</string>
+		<string>NunitoMediumItalic.ttf</string>
+		<string>NunitoRegular.ttf</string>
+		<string>NunitoSemiBold.ttf</string>
+		<string>NunitoSemiBoldItalic.ttf</string>
+	</array>
 </dict>
 </plist>
